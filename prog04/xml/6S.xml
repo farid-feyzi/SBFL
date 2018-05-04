@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage branch-rate="1.0" line-rate="1.0" timestamp="1489035879"
+ version="gcovr 3.3">
+ <sources>
+  <source>.</source>
+ </sources>
+ <packages>
+  <package branch-rate="1.0" complexity="0.0" line-rate="1.0" name="">
+   <classes>
+    <class branch-rate="1.0" complexity="0.0" filename="is.c" line-rate="1.0"
+     name="is_c">
+     <methods/>
+     <lines>
+      <line branch="false" hits="6" number="7"/>
+      <line branch="false" hits="6" number="8"/>
+      <line branch="false" hits="6" number="10"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="70"
+       number="11">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="29" number="12"/>
+      <line branch="false" hits="29" number="13"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="58"
+       number="15">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="23" number="16"/>
+      <line branch="false" hits="23" number="17"/>
+      <line branch="true" condition-coverage="100% (4/4)" hits="84"
+       number="18">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="3" number="19"/>
+      <line branch="false" hits="3" number="20"/>
+      <line branch="false" hits="23" number="22"/>
+      <line branch="false" hits="23" number="23"/>
+      <line branch="false" hits="6" number="25"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="70"
+       number="26">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="29" number="27"/>
+      <line branch="false" hits="29" number="28"/>
+      <line branch="false" hits="6" number="30"/>
+     </lines>
+    </class>
+   </classes>
+  </package>
+ </packages>
+</coverage>
+

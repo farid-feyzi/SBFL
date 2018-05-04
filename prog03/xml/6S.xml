@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage branch-rate="0.625" line-rate="0.8125" timestamp="1488995499"
+ version="gcovr 3.3">
+ <sources>
+  <source>.</source>
+ </sources>
+ <packages>
+  <package branch-rate="0.625" complexity="0.0" line-rate="0.8125" name="">
+   <classes>
+    <class branch-rate="0.625" complexity="0.0" filename="bs.c"
+     line-rate="0.8125" name="bs_c">
+     <methods/>
+     <lines>
+      <line branch="true" condition-coverage="100% (2/2)" hits="6" number="7">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="2" number="9"/>
+      <line branch="true" condition-coverage="50% (1/2)" hits="2" number="12">
+       <conditions>
+        <condition coverage="50%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="0" number="13"/>
+      <line branch="true" condition-coverage="50% (1/2)" hits="2" number="16">
+       <conditions>
+        <condition coverage="50%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="0" number="17"/>
+      <line branch="false" hits="2" number="21"/>
+      <line branch="false" hits="1" number="25"/>
+      <line branch="false" hits="1" number="26"/>
+      <line branch="false" hits="1" number="30"/>
+      <line branch="false" hits="1" number="31"/>
+      <line branch="false" hits="1" number="32"/>
+      <line branch="false" hits="1" number="33"/>
+      <line branch="true" condition-coverage="50% (1/2)" hits="3" number="34">
+       <conditions>
+        <condition coverage="50%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="0" number="35"/>
+      <line branch="false" hits="1" number="36"/>
+     </lines>
+    </class>
+   </classes>
+  </package>
+ </packages>
+</coverage>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage branch-rate="1.0" line-rate="1.0" timestamp="1488984390"
+ version="gcovr 3.3">
+ <sources>
+  <source>.</source>
+ </sources>
+ <packages>
+  <package branch-rate="1.0" complexity="0.0" line-rate="1.0" name="">
+   <classes>
+    <class branch-rate="1.0" complexity="0.0" filename="merger_two_arrays.c"
+     line-rate="1.0" name="merger_two_arrays_c">
+     <methods/>
+     <lines>
+      <line branch="false" hits="3" number="11"/>
+      <line branch="false" hits="3" number="12"/>
+      <line branch="false" hits="3" number="14"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="24"
+       number="15">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="9" number="16"/>
+      <line branch="false" hits="9" number="17"/>
+      <line branch="false" hits="3" number="19"/>
+      <line branch="false" hits="3" number="20"/>
+      <line branch="false" hits="3" number="22"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="26"
+       number="23">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="10" number="24"/>
+      <line branch="false" hits="10" number="25"/>
+      <line branch="false" hits="3" number="27"/>
+      <line branch="false" hits="3" number="29"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="44"
+       number="31">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="19" number="32"/>
+      <line branch="false" hits="19" number="33"/>
+      <line branch="false" hits="3" number="35"/>
+      <line branch="false" hits="3" number="41"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="30"
+       number="43">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="true" condition-coverage="100% (4/4)" hits="22"
+       number="44">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="true" condition-coverage="100% (2/2)" hits="9"
+       number="45">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="6" number="46"/>
+      <line branch="false" hits="6" number="47"/>
+      <line branch="false" hits="6" number="48"/>
+      <line branch="false" hits="3" number="50"/>
+      <line branch="false" hits="3" number="51"/>
+      <line branch="false" hits="9" number="53"/>
+      <line branch="false" hits="9" number="54"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="3"
+       number="55">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="true" condition-coverage="100% (2/2)" hits="18"
+       number="56">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="7" number="57"/>
+      <line branch="false" hits="7" number="58"/>
+      <line branch="false" hits="7" number="59"/>
+      <line branch="false" hits="2" number="61"/>
+      <line branch="true" condition-coverage="100% (2/2)" hits="8"
+       number="63">
+       <conditions>
+        <condition coverage="100%" number="0" type="jump"/>
+       </conditions>
+      </line>
+      <line branch="false" hits="3" number="64"/>
+      <line branch="false" hits="3" number="65"/>
+      <line branch="false" hits="3" number="66"/>
+      <line branch="false" hits="3" number="70"/>
+     </lines>
+    </class>
+   </classes>
+  </package>
+ </packages>
+</coverage>
+
